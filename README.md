@@ -9,6 +9,9 @@ We can classify the investment theses for (and against) investing in Bitcoin int
 ## A. Short holding period, high adoption
 
 ### 1. Retail payments
+Thesis: Bitcoin, whether it's on-chain, off-chain, or layer 2, will supplant current retail payment methods including cash, checks, and credit cards. Bitcoin's advantage over cash and checks is that it is digital, the consumer only needs a smartphone and the retailer does not have to worry about handling cash or depositing checks. Bitcoin's advantage over credit cards is lower transaction fees, irreversibility which protects the merchant, and a "push" system with no credit card numbers - which protects the consumer.
+
+Anti-thesis: Reversibility increases consumer confidence. A "pull" system enables subscriptions which are an important business model. On-chain transactions can not scale without centralizing the Bitcoin network. Off-chain and layer 2 transactions have an up-hill battle against entrenched debit and credit card payment systems. Credit cards give consumers flexibility in financing their purchases.
 ### 2. Micropayments
 ### 3. Machine-to-machine payments
 ### 4. International remittances
