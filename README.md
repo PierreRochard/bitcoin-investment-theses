@@ -9,11 +9,51 @@ We can classify the investment theses for (and against) investing in Bitcoin int
 ## A. Short holding period, high adoption
 
 ### 1. Retail payments
-Thesis: Bitcoin, whether it's on-chain, off-chain, or layer 2, will supplant current retail payment methods including cash, checks, and credit cards. Bitcoin's advantage over cash and checks is that it is digital, the consumer only needs a smartphone and the retailer does not have to worry about handling cash or depositing checks. Bitcoin's advantage over credit cards is lower transaction fees, irreversibility which protects the merchant, and a "push" system with no credit card numbers - which protects the consumer.
+Thesis: Bitcoin, whether it's on-chain, off-chain, or Lightning, will supplant 
+current retail payment methods including cash, checks, and credit cards. 
+Bitcoin's advantage over cash and checks is that it is digital, the consumer 
+only needs a smartphone and the retailer does not have to worry about handling 
+cash or depositing checks. Bitcoin's advantage over credit cards is lower 
+transaction fees, irreversibility which protects the merchant, and a "push" 
+system with no credit card numbers - which protects the consumer. Fast 
+settlement means that merchants require less in working capital.
 
-Anti-thesis: Reversibility increases consumer confidence. A "pull" system enables subscriptions which are an important business model. On-chain transactions can not scale without centralizing the Bitcoin network. Off-chain and layer 2 transactions have an up-hill battle against entrenched debit and credit card payment systems. Credit cards give consumers flexibility in financing their purchases.
+Anti-thesis: Reversibility increases consumer confidence. A "pull" system 
+enables subscriptions which are an important business model. On-chain 
+transactions can not scale without centralizing the Bitcoin network. Off-chain 
+and layer 2 transactions have an up-hill battle against entrenched debit and 
+credit card payment systems. Credit cards give consumers flexibility in 
+financing their purchases. Consumers who acquire bitcoins with the intent of 
+making retail payments end up just holding the bitcoins for price appreciation
+instead.
+
 ### 2. Micropayments
+Thesis: Bitcoin's Lightning network enables instant, high-volume micropayments.
+Micropayments will be leveraged by online games, content publishers, and social 
+media tipping services to monetize interactions and consumption.
+
+Anti-thesis: Subscriptions provide a better revenue model for content publishers
+and social media tipping ignores why people actually engage with each other.
+Game creators and players currently have no serious issues with in-game 
+purchases. If there are any complaints it's from players who feel 
+nickel-and-dimed, which would only be worse with micropayments.
+
 ### 3. Machine-to-machine payments
+Thesis: The Internet of Things (IoT) means that your refrigerator could 
+communicate with several grocery business APIs to negotiate for the best value
+replenishment. Soon the grocery business itself will automatically be 
+negotiating with self-driving cars providing delivery services. This network of 
+machine-to-machine payments will all be with Bitcoin's Lightning Network.
+
+Anti-thesis: Even if machines are negotiating with each other for goods and 
+services, it's unclear why the businesses which own them would not invoice 
+each other on a monthly basis instead of continuously streaming payments. 
+Companies will continue to keep track of their payables and receivables, and 
+netting them out for payment, in which case Bitcoin is not a necessity. Today 
+Amazon Web Services charges by the second, can be controlled by an API, but 
+payments are made monthly with fiat-denominated credit cards, wire transfers, or
+ACH.
+
 ### 4. International remittances
 
 ## B. Short holding period, low adoption
