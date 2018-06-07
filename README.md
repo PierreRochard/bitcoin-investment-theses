@@ -3,14 +3,17 @@
 
 We can classify the investment theses for (and against) investing in Bitcoin into categories. This helps clarify how much of an impact a given narrative could have to Bitcoin's valuation. 
 
-## Short holding period, high adoption
+![Categorized Bitcoin Investment Theses](https://github.com/PierreRochard/bitcoin-investment-theses/blob/master/categorized_theses_chart.png "Categorized Bitcoin Investment Theses")
+
+
+## A. Short holding period, high adoption
 
 ### Retail payments
 ### Micropayments
 ### Machine-to-machine payments
 ### International remittances
 
-## Short holding period, low adoption
+## B. Short holding period, low adoption
 
 ### Tax evasion
 ### Black markets
@@ -23,7 +26,7 @@ We can classify the investment theses for (and against) investing in Bitcoin int
 ### High value payments
 ### Electricity monetization
 
-## Long holding period, low adoption
+## C. Long holding period, low adoption
 
 ### Nest egg for dictators
 ### Judgement resistance
@@ -33,14 +36,14 @@ We can classify the investment theses for (and against) investing in Bitcoin int
 ### Holders of last resort
 ### Destroyed coins
 
-## Long holding period, high adoption
+## D. Long holding period, high adoption
 
 ### Digital gold
 ### Collateral asset
 ### Full currency substitution
 
 
-## Exogenous narratives
+## E. Exogenous narratives
 
 ### Financial sovereignty
 ### Be your own bank
