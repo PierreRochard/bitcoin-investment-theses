@@ -86,14 +86,37 @@ due to whistle-blowers, reporting by third parties (1099's in the US), and the
 lifestyle/income mismatch.
 
 ### 2. Black markets
-### 3. Online gambling
-### 4. Speculative trading
-### 5. Ponzi scheme
-### 6. Money laundering
-### 7. FOMO buyers
-### 8. Institutional settlement
-### 9. High value payments
-### 10. Electricity monetization
+
+Thesis: Before it was shutdown in 2013, the Silk Road was a marketplace for 
+illegal drugs. It had tens of thousands of users and $22 million in annual 
+sales. In 2017, a successor of the Silk Road called AlphaBay was also shut down,
+it was ten times the size of the Silk Road with hundreds of thousands of users.
+Bitcoin enables the sales of illegal goods and services because it is a 
+permissionless, censorship-resistant payments network.
+
+Anti-thesis: Ultimately most goods and services have to be delivered in the 
+real world, so even if the payment is pseudonymous the delivery can reveal the 
+identities of buyers and sellers. Additionally, even if the bitcoins are bought 
+and sold in person for fiat cash, there is a risk that the bitcoin broker is an 
+informant or government agent. Buying and selling bitcoins on an online 
+exchange with KYC/AML is even riskier. This problem is compounded by the 
+visibility of on-chain Bitcoin transactions.
+
+
+### 3. Ransomware
+Thesis: Ransomware is when malicious software encrypts a user's data, locking 
+them out of personal or business information. The virus demands payment in 
+bitcoins to decrypt the data. 
+
+
+### 4. Online gambling
+### 5. Speculative trading
+### 6. Ponzi scheme
+### 7. Money laundering
+### 8. FOMO buyers
+### 9. Institutional settlement
+### 10. High value payments
+### 11. Electricity monetization
 
 ## C. Long holding period, low adoption
 
