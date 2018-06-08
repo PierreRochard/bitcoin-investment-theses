@@ -72,6 +72,19 @@ improved by fintech startups using fiat banks and SQL databases.
 ## B. Short holding period, low adoption
 
 ### 1. Tax evasion
+
+Thesis: Just as restaurant waiters can under-report their cash tips, a person or 
+business receiving bitcoin revenues could under-report them. There is no 
+financial institution which the IRS can subpoena for records. If the tax 
+evader is careful about how they use Bitcoin's public blockchain ledger then 
+they can also avoid being caught with data analysis.
+
+Anti-thesis: Tax auditors have experts in computer forensics and there's always
+a paper trail for the creation and sale of a good or service. It would be risky 
+and time consuming to convert the proceeds into fiat. Tax evasion does not scale 
+due to whistle-blowers, reporting by third parties (1099's in the US), and the 
+lifestyle/income mismatch.
+
 ### 2. Black markets
 ### 3. Online gambling
 ### 4. Speculative trading
