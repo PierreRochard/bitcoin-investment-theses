@@ -56,6 +56,19 @@ ACH.
 
 ### 4. International remittances
 
+Thesis: Money transfers between countries are expensive and slow, Bitcoin can 
+make them fast and cheap. Anyone, anywhere in the world who has an internet 
+connection can receive bitcoins. 
+
+Anti-thesis: Senders want to send their local fiat currency and recipients want 
+to receive their local fiat currency. Neither side has bitcoins. Using Bitcoin 
+means adding an FX conversion on the sender's side and on the recipient's side, 
+this inherently increases cost. The cost of sending $200 anywhere in the world 
+has declined from 10% in 2008 to 7% in 2017. Money transfers are expensive due 
+to physical locations, marketing, licensing, and compliance. Bitcoin on its own 
+does not solve any of those issues. The slow fiat payment rails are being 
+improved by fintech startups using fiat banks and SQL databases. 
+
 ## B. Short holding period, low adoption
 
 ### 1. Tax evasion
