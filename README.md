@@ -159,6 +159,26 @@ speculative frenzies are faked by wash-trading volume and fractional reserve
 exchanges. 
 
 ### 6. Ponzi scheme
+
+Thesis: While Bitcoin may not fit the definition of an actual Ponzi scheme, it 
+has a lot of similarity with one, Preston Byrne popularized the concept of a 
+[Nakamoto Scheme](https://prestonbyrne.com/2017/12/08/bitcoin_ponzi/). Early 
+buyers of bitcoins recruit and sell to later buyers, at ever higher prices. The 
+cries to "HODL" are just to prop up the price and keep the scheme from falling 
+apart due to the equivalent of a bank-run. "Tulips" and "greater fool theory" 
+are used as shorthand for this thesis. Once the number of gullible buyers runs 
+out then the price will crash as everyone tries to get out at the same time. 
+
+Anti-thesis: Every money is a bubble, a shared illusion, an inter-subjective 
+[Schelling point](https://en.wikipedia.org/wiki/Focal_point_(game_theory)) of 
+which unproductive asset is best suited to be society's medium of exchange, 
+store of value, and unit of account. Bitcoin is bootstrapping to potentially 
+fill that role from a value of zero. This has led to an astounding run-up in 
+its fiat price. What goes unexplained in the Ponzi scheme thesis is why 
+severe drawdowns (most recently a 91% peak to trough drawdown in 2014) are not 
+a deathblow. So far, the value of bitcoins recovers and ultimately increases 
+beyond the previous all time high. 
+
 ### 7. Money laundering
 ### 8. FOMO buyers
 ### 9. Institutional settlement
