@@ -139,6 +139,25 @@ in-person cash exchange services, though there are cases of people being
 robbed and it is not a scalable solution for anything but the smallest business.
 
 ### 5. Speculative trading
+
+Thesis: Bitcoin exchanges are open for trading 24/7. On top of Bitcoin's 
+volatility, they also offer up to 100x leverage. Tech-savvy traders are 
+building bots that use the exchanges' public APIs to execute their strategies.
+The execution engines of exchanges are moving from AWS to dedicated hosting, 
+in the same facilities where US equities trade. Exchanges are the most 
+profitable businesses in the Bitcoin ecosystem, offering both spot and futures 
+products. Speculators can now profit both by going long and going short. 
+The limited supply of bitcoins has led to repeated speculative frenzies, where 
+fortunes have been made and lost. 
+
+Anti-thesis: Speculation is zero-sum, eventually bad traders will run out of 
+capital and good traders will see diminishing profits and move to greener 
+pastures. Bitcoin's volatility has been decreasing as its liquidity increases. 
+The markets are manipulated to favor whales and they will be shutdown or become 
+boring when government regulators intervene to stop manipulation. The 
+speculative frenzies are faked by wash-trading volume and fractional reserve 
+exchanges. 
+
 ### 6. Ponzi scheme
 ### 7. Money laundering
 ### 8. FOMO buyers
