@@ -180,6 +180,26 @@ a deathblow. So far, the value of bitcoins recovers and ultimately increases
 beyond the previous all time high. 
 
 ### 7. Money laundering
+
+Thesis: Corrupt politicians who were bribed with bitcoins want to convert them 
+into legitimate assets without raising suspicions. The money launderer can 
+take advantage of Bitcoin's fragmented market by sending small amounts to many 
+different exchanges to sell for fiat, a form of structuring. A money launderer 
+can also mix the illegal Bitcoin revenues with legal Bitcoin revenues, for 
+example from an online poker business they control or partner with. A growing 
+strategy is purchasing property with bitcoins, and then selling the property 
+for fiat. 
+
+Anti-thesis: Any involvement of Bitcoin raises suspicion, so laundering 
+bitcoins is ultimately harder than laundering fiat. 
+[Data indicates](https://bitcoinmagazine.com/articles/bitcoin-laundering-study-where-do-criminals-turn-mask-illicit-cryptoassets/)
+that Bitcoin money laundering has been an increasingly marginal activity. 
+Bitcoin faces stiff competition from large international banks, which continue 
+to be the go-to providers of money laundering services. 
+
+
+### 8. Routing around capital controls
+
 ### 8. FOMO buyers
 ### 9. Institutional settlement
 ### 10. High value payments
