@@ -104,12 +104,40 @@ visibility of on-chain Bitcoin transactions.
 
 
 ### 3. Ransomware
+
 Thesis: Ransomware is when malicious software encrypts a user's data, locking 
 them out of personal or business information. The virus demands payment in 
 bitcoins to decrypt the data. 
 
+Anti-thesis: Increasing awareness of the problem is leading to effective 
+mitigation strategies, whether with anti-virus software or offline data backups. 
 
 ### 4. Online gambling
+
+Thesis: While online poker is legal in the United States, in practice the 
+Unlawful Internet Gambling Enforcement Act of 2006 made it illegal for 
+financial institutions to service online poker platforms and players. This 
+eventually led to the wide usage of Bitcoin for funding online poker games. The 
+phenomenon has expanded beyond poker, there are Bitcoin-funded sites for sports 
+betting, blackjack, dice, and slots. 
+
+Anti-thesis: If US legislation changes to be more favorable towards online 
+gambling then this niche for Bitcoin could disappear.
+
+### 5. Unbanked businesses
+
+Thesis: Payment processors and banks are facing pressure to not service 
+businesses for political reasons. These businesses include gun stores, 
+marijuana dispensaries, and sex workers. Other businesses and individuals do 
+not have access to banking services due to redlining or credit history. 
+A Bitcoin wallet enables these demographics to "be their own bank" with a 
+checking account and the ability to send and receive payments.
+
+Anti-thesis: As long as the rest of the economy is using fiat currencies, the 
+unbanked still need a way to exchange their bitcoins for fiat. They can use 
+in-person cash exchange services, though there are cases of people being 
+robbed and it is not a scalable solution for anything but the smallest business.
+
 ### 5. Speculative trading
 ### 6. Ponzi scheme
 ### 7. Money laundering
