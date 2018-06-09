@@ -227,9 +227,32 @@ sit on the bitcoins they impulsively bought, waiting for the next bubble. A
 certain percentage of them start to actually research what Bitcoin is and 
 continue accumulating during the bear market. 
 
-### 10. Institutional settlement
-### 11. High value payments
-### 12. Electricity monetization
+### 10. Vehicle Currency
+
+Thesis: In 1979 Paul Krugman published a paper titled "Vehicle Currencies and 
+the Structure of International Exchange". In this paper he explained that 
+"People who want to exchange one currency for another will not necessarily make 
+the exchange directly. They may make the exchange by way of some third 
+currency, which becomes a "vehicle" for the transaction. Historically, certain 
+currencies — the pound sterling before 1914, the U.S. dollar in recent years — 
+have come to be widely used as vehicle currencies." Bitcoin has the potential 
+to become the vehicle currency of international trade.
+
+Anti-thesis: Bitcoin is not nearly liquid enough to be a vehicle currency. 
+Competing with the U.S. dollar for this is extremely difficult, the most 
+likely candidate has been the euro and it has made little progress.
+
+### 11. Electricity monetization
+
+Thesis: Governments and individuals that are struggling to get hard currency 
+can use cheap local electricity to mine for bitcoins. The Venezuelan government 
+has been seizing imported Bitcoin mining equipment so that they can use it 
+themselves. The North Korean government acquired 11,000 bitcoins through a 
+combination of mining and hacking.
+
+Anti-thesis: As Bitcoin mining finds increasingly inexpensive sources of 
+electricity, it will become less and less profitable for governments to mine 
+even if they have favorable access to fossil fuels.
 
 ## C. Long holding period, low adoption
 
@@ -251,10 +274,9 @@ continue accumulating during the bear market.
 ## E. Exogenous narratives
 
 ### 1. Financial sovereignty
-### 2. Be your own bank
-### 3. Programmable money
-### 4. Mining centralization
-### 5. Unsuitable as financial market infrastructure
-### 6. Altcoin inflation
-### 7. Bitcoin scripting is not smart enough
+### 2. Programmable money
+### 3. Mining centralization
+### 4. Unsuitable as financial market infrastructure
+### 5. Altcoin inflation
+### 6. Bitcoin scripting is not smart enough
 
