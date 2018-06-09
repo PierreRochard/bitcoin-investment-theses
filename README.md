@@ -200,10 +200,36 @@ to be the go-to providers of money laundering services.
 
 ### 8. Routing around capital controls
 
-### 8. FOMO buyers
-### 9. Institutional settlement
-### 10. High value payments
-### 11. Electricity monetization
+Thesis: Countries which have a currency peg, like China, have to rely on 
+capital controls to prevent their currency's exchange rate from appreciating or 
+depreciating in an unexpected manner. For example, Chinese citizens can only 
+purchase up to $50,000 of foreign currency per year. Chinese regulators have 
+also recently prevented offshore investments into U.S. real estate. Bitcoin 
+allows people to route around capital controls, by buying bitcoins locally, 
+sending them to an exchange abroad, and selling them for the foreign currency.
+
+Anti-thesis: While Bitcoin can help small-scale evasion of capital controls, 
+it is not liquid enough to capture market share from other forms of evasion. 
+Governments have and will crackdown on their local Bitcoin exchanges to further 
+reduce liquidity. 
+
+### 9. FOMO buyers
+
+Thesis: Retail investors see the price going up and experience a "fear of 
+missing out" on further price gains and the social phenomenon. Individuals 
+want to be able to relate to each other, if your friends are talking about 
+investing in Bitcoin then you feel a need to do so yourself. When the price 
+stops going up parabolically the social fad quickly passes. Conversation turns 
+to embarrassing losses and moves on to the next trendy investment.
+
+Anti-thesis: The FOMO buyers become FOCO (fear of cashing out) holders. They 
+sit on the bitcoins they impulsively bought, waiting for the next bubble. A 
+certain percentage of them start to actually research what Bitcoin is and 
+continue accumulating during the bear market. 
+
+### 10. Institutional settlement
+### 11. High value payments
+### 12. Electricity monetization
 
 ## C. Long holding period, low adoption
 
