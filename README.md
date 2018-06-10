@@ -49,35 +49,34 @@ media tipping services to monetize interactions and consumption.
 Anti-thesis: Subscriptions provide a better revenue model for content publishers
 and social media tipping ignores why people actually engage with each other.
 Game creators and players currently have no serious issues with in-game 
-purchases. If there are any complaints it's from players who feel 
+purchases. If there are any complaints, it's from players who feel 
 nickel-and-dimed, which would only be worse with micropayments.
 
 ### 3. Machine-to-machine payments
-Thesis: The Internet of Things (IoT) means that your refrigerator could 
+Thesis: The Internet of Things (IoT) means your refrigerator could 
 communicate with several grocery business APIs to negotiate for the best value
 replenishment. Soon the grocery business itself will automatically be 
 negotiating with self-driving cars providing delivery services. This network of 
 machine-to-machine payments will all be with Bitcoin's Lightning Network.
 
-Anti-thesis: Even if machines are negotiating with each other for goods and 
-services, it's unclear why the businesses which own them would not invoice 
-each other on a monthly basis instead of continuously streaming payments. 
-Companies will continue to keep track of their payables and receivables, and 
-netting them out for payment, in which case Bitcoin is not a necessity. Today 
-Amazon Web Services charges by the second, can be controlled by an API, but 
-payments are made monthly with fiat-denominated credit cards, wire transfers, or
-ACH.
+Anti-thesis: It's unclear why the businesses, which own the machines, would not 
+invoice each other on a monthly basis, instead of continuously streaming 
+payments. Companies will continue to keep track of their payables and 
+receivables, and netting them out for payment, in which case Bitcoin is not a 
+necessity. Today Amazon Web Services charges by the second and can be 
+controlled by an API, but payments are made monthly with fiat-denominated 
+credit cards, wire transfers, or ACH.
 
 ### 4. International remittances
 
-Thesis: Money transfers between countries are expensive and slow, Bitcoin can 
+Thesis: Money transfers between countries are expensive and slow; Bitcoin can 
 make them fast and cheap. Anyone, anywhere in the world who has an internet 
 connection can receive bitcoins. 
 
 Anti-thesis: Senders want to send their local fiat currency and recipients want 
 to receive their local fiat currency. Neither side has bitcoins. Using Bitcoin 
-means adding an FX conversion on the sender's side and on the recipient's side, 
-this inherently increases cost. The cost of sending $200 anywhere in the world 
+means adding an FX conversion on the sender's side and on the recipient's side. 
+This inherently increases cost. The cost of sending $200 anywhere in the world 
 has declined from 10% in 2008 to 7% in 2017. Money transfers are expensive due 
 to physical locations, marketing, licensing, and compliance. Bitcoin on its own 
 does not solve any of those issues. The slow fiat payment rails are being 
@@ -103,8 +102,8 @@ lifestyle/income mismatch.
 
 Thesis: Before it was shutdown in 2013, the Silk Road was a marketplace for 
 illegal drugs. It had tens of thousands of users and $22 million in annual 
-sales. In 2017, a successor of the Silk Road called AlphaBay was also shut down,
-it was ten times the size of the Silk Road with hundreds of thousands of users.
+sales. In 2017, a successor of the Silk Road called AlphaBay was also shut down.
+It was ten times the size of the Silk Road with hundreds of thousands of users.
 Bitcoin enables the sales of illegal goods and services because it is a 
 permissionless, censorship-resistant payments network.
 
@@ -132,7 +131,7 @@ Thesis: While online poker is legal in the United States, in practice the
 Unlawful Internet Gambling Enforcement Act of 2006 made it illegal for 
 financial institutions to service online poker platforms and players. This 
 eventually led to the wide usage of Bitcoin for funding online poker games. The 
-phenomenon has expanded beyond poker, there are Bitcoin-funded sites for sports 
+phenomenon has expanded beyond poker. There are Bitcoin-funded sites for sports 
 betting, blackjack, dice, and slots. 
 
 Anti-thesis: If US legislation changes to be more favorable towards online 
@@ -157,10 +156,10 @@ robbed and it is not a scalable solution for anything but the smallest business.
 Thesis: Bitcoin exchanges are open for trading 24/7. On top of Bitcoin's 
 volatility, they also offer up to 100x leverage. Tech-savvy traders are 
 building bots that use the exchanges' public APIs to execute their strategies.
-The execution engines of exchanges are moving from AWS to dedicated hosting, 
+The matching engines of exchanges are moving from AWS to dedicated hosting, 
 in the same facilities where US equities trade. Exchanges are the most 
 profitable businesses in the Bitcoin ecosystem, offering both spot and futures 
-products. Speculators can now profit both by going long and going short. 
+products. Speculators can now profit by going long or going short. 
 The limited supply of bitcoins has led to repeated speculative frenzies, where 
 fortunes have been made and lost. 
 
@@ -175,23 +174,24 @@ exchanges.
 ### 6. Ponzi scheme
 
 Thesis: While Bitcoin may not fit the definition of an actual Ponzi scheme, it 
-has a lot of similarity with one, Preston Byrne popularized the concept of a 
+has a lot of similarities. Preston Byrne popularized the concept of a 
 [Nakamoto Scheme](https://prestonbyrne.com/2017/12/08/bitcoin_ponzi/). Early 
 buyers of bitcoins recruit and sell to later buyers, at ever higher prices. The 
-cries to "HODL" are just to prop up the price and keep the scheme from falling 
-apart due to the equivalent of a bank-run. "Tulips" and "greater fool theory" 
+cries to "HODL" are there to prop up the price and keep the scheme from falling 
+apart. "Tulips" and "greater fool theory" 
 are used as shorthand for this thesis. Once the number of gullible buyers runs 
-out then the price will crash as everyone tries to get out at the same time. 
+out, the price will crash as everyone tries to get out at the same time, much 
+like a bank run. 
 
-Anti-thesis: Every money is a bubble, a shared illusion, an inter-subjective 
-[Schelling point](https://en.wikipedia.org/wiki/Focal_point_(game_theory)) of 
-which unproductive asset is best suited to be society's medium of exchange, 
-store of value, and unit of account. Bitcoin is bootstrapping to potentially 
-fill that role from a value of zero. This has led to an astounding run-up in 
-its fiat price. What goes unexplained in the Ponzi scheme thesis is why 
-severe drawdowns (most recently a 91% peak to trough drawdown in 2014) are not 
-a deathblow. So far, the value of bitcoins recovers and ultimately increases 
-beyond the previous all time high. 
+Anti-thesis: Every money has no intrinsic value. They are bubbles, shared 
+illusions, inter-subjective [Schelling points](https://en.wikipedia.org/wiki/Focal_point_(game_theory)). 
+A money is an unproductive asset which is best suited to be society's medium of 
+exchange, store of value, and unit of account. Bitcoin is bootstrapping to 
+potentially fill that role from a value of zero. This has led to an astounding 
+run-up in its fiat price. What goes unexplained in the Ponzi scheme thesis is 
+why severe drawdowns (most recently a 91% peak to trough drawdown in 2014) are 
+not a deathblow. So far, the value of Bitcoin has recovered and ultimately has 
+increased beyond the previous all time high. 
 
 ### 7. Money laundering
 
@@ -231,14 +231,14 @@ reduce liquidity.
 
 Thesis: Retail investors see the price going up and experience a "fear of 
 missing out" on further price gains and the social phenomenon. Individuals 
-want to be able to relate to each other, if your friends are talking about 
+want to be able to relate to each other, i.e. if your friends are talking about 
 investing in Bitcoin then you feel a need to do so yourself. When the price 
 stops going up parabolically the social fad quickly passes. Conversation turns 
 to embarrassing losses and moves on to the next trendy investment.
 
 Anti-thesis: The FOMO buyers become FOCO (fear of cashing out) holders. They 
 sit on the bitcoins they impulsively bought, waiting for the next bubble. A 
-certain percentage of them start to actually research what Bitcoin is and 
+small percentage start to research what Bitcoin is and 
 continue accumulating during the bear market. 
 
 ### 10. Vehicle Currency
