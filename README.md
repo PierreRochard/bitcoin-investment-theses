@@ -151,7 +151,7 @@ unbanked still need a way to exchange their bitcoins for fiat. They can use
 in-person cash exchange services, though there are cases of people being 
 robbed and it is not a scalable solution for anything but the smallest business.
 
-### 5. Speculative trading
+### 6. Speculative trading
 
 Thesis: Bitcoin exchanges are open for trading 24/7. On top of Bitcoin's 
 volatility, they also offer up to 100x leverage. Tech-savvy traders are 
@@ -171,7 +171,7 @@ boring when government regulators intervene to stop manipulation. The
 speculative frenzies are faked by wash-trading volume and fractional reserve 
 exchanges. 
 
-### 6. Ponzi scheme
+### 7. Ponzi scheme
 
 Thesis: While Bitcoin may not fit the definition of an actual Ponzi scheme, it 
 has a lot of similarities. Preston Byrne popularized the concept of a 
@@ -193,7 +193,7 @@ why severe drawdowns (most recently a 91% peak to trough drawdown in 2014) are
 not a deathblow. So far, the value of Bitcoin has recovered and ultimately has 
 increased beyond the previous all time high. 
 
-### 7. Money laundering
+### 8. Money laundering
 
 Thesis: Corrupt politicians who were bribed with bitcoins want to convert them 
 into legitimate assets without raising suspicions. The money launderer can 
@@ -212,7 +212,7 @@ Bitcoin faces stiff competition from large international banks, which continue
 to be the go-to providers of money laundering services. 
 
 
-### 8. Routing around capital controls
+### 9. Routing around capital controls
 
 Thesis: Countries which have a currency peg, like China, have to rely on 
 capital controls to prevent their currency's exchange rate from appreciating or 
@@ -227,7 +227,7 @@ it is not liquid enough to capture market share from other forms of evasion.
 Governments have and will crackdown on their local Bitcoin exchanges to further 
 reduce liquidity. 
 
-### 9. FOMO buyers
+### 10. FOMO buyers
 
 Thesis: Retail investors see the price going up and experience a "fear of 
 missing out" on further price gains and the social phenomenon. Individuals 
@@ -241,7 +241,7 @@ sit on the bitcoins they impulsively bought, waiting for the next bubble. A
 small percentage start to research what Bitcoin is and 
 continue accumulating during the bear market. 
 
-### 10. Vehicle Currency
+### 11. Vehicle Currency
 
 Thesis: In 1979 Paul Krugman published a paper titled "Vehicle Currencies and 
 the Structure of International Exchange". In this paper he explained that 
@@ -256,7 +256,7 @@ Anti-thesis: Bitcoin is not nearly liquid enough to be a vehicle currency.
 Competing with the U.S. dollar for this is extremely difficult, the most 
 likely candidate has been the euro and it has made little progress.
 
-### 11. Electricity monetization
+### 12. Electricity monetization
 
 Thesis: Governments and individuals that are struggling to get hard currency 
 can use cheap local electricity to mine for bitcoins. The Venezuelan government 
