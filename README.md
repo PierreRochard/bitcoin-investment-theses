@@ -12,7 +12,7 @@ imperfect heuristic that should be debated and refined.
 ![Categorized Bitcoin Investment Theses](https://github.com/PierreRochard/bitcoin-investment-theses/blob/master/categorized_theses_chart.png "Categorized Bitcoin Investment Theses")
 
 
-# 15 Bitcoin Payments-Related Investment Theses
+# 16 Bitcoin Payments-Related Investment Theses
 
 Investment theses with a short holding period are focused on using bitcoins as 
 a method of payment. Some of these theses would find ubiquitous usage while 
