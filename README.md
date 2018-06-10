@@ -293,4 +293,4 @@ even if they have favorable access to fossil fuels.
 ### 4. Unsuitable as financial market infrastructure
 ### 5. Altcoin inflation
 ### 6. Bitcoin scripting is not smart enough
-
+### 7. Bitcoins are intangible, virtual
