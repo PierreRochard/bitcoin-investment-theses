@@ -1,12 +1,26 @@
 # Mapping the Bitcoin Investment Theses
 
 
-We can classify the investment theses for (and against) investing in Bitcoin into categories. This helps clarify how much of an impact a given narrative could have to Bitcoin's valuation. 
+We can classify the investment theses for (and against) investing in Bitcoin 
+into categories. This helps clarify how much of an impact a given narrative 
+could have to Bitcoin's valuation. Investment theses that have a short holding 
+period are less meaningful for investors than ones with a long holding period. 
+Likewise, theses with a large number of potential adopters are more meaningful 
+for investors than ones with a small number of potential adopters. This is an 
+imperfect heuristic that should be debated and refined. 
 
 ![Categorized Bitcoin Investment Theses](https://github.com/PierreRochard/bitcoin-investment-theses/blob/master/categorized_theses_chart.png "Categorized Bitcoin Investment Theses")
 
 
-## A. Short holding period, high adoption
+# 15 Bitcoin Payments-Related Investment Theses
+
+Investment theses with a short holding period are focused on using bitcoins as 
+a method of payment. Some of these theses would find ubiquitous usage while 
+others are niche verticals. If you disagree with anything written here, feel 
+free to contact me on [Twitter](https://twitter.com/pierre_rochard) or on 
+[GitHub](https://github.com/PierreRochard/bitcoin-investment-theses/issues/new).
+
+## A. Short holding period, wide adoption
 
 ### 1. Retail payments
 Thesis: Bitcoin, whether it's on-chain, off-chain, or Lightning, will supplant 
@@ -69,7 +83,7 @@ to physical locations, marketing, licensing, and compliance. Bitcoin on its own
 does not solve any of those issues. The slow fiat payment rails are being 
 improved by fintech startups using fiat banks and SQL databases. 
 
-## B. Short holding period, low adoption
+## B. Short holding period, narrow adoption
 
 ### 1. Tax evasion
 
