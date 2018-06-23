@@ -271,7 +271,17 @@ even if they have favorable access to fossil fuels.
 ## C. Long holding period, low adoption
 
 ### 1. Nest egg for dictators
+
+> “Normally when you have a parabolic curve, eventually it has a very sharp break,” Soros said Thursday. “But in this case, as long as you have dictatorships on the rise you will have a different ending, because the rulers in those countries will turn to Bitcoin to build a nest egg abroad.”
+> [George Soros, January 25, 2018](https://www.bloomberg.com/news/articles/2018-01-25/soros-says-bitcoin-bubble-won-t-have-sharp-break-like-others)
+
+Thesis: While we don't have any evidence that dictators are currently holding bitcoins abroad, George Soros suggests that they will in the future. Dictators amass fortunes by seizing private businesses, demanding bribes from resource producers, and exploiting government monopolies. For example, the dictator of Equatorial Guinea has a [net worth of $600 million](https://en.wikipedia.org/wiki/Teodoro_Obiang_Nguema_Mbasogo#Wealth). This is small compared to the [$95 billion](https://en.wikipedia.org/wiki/Ali_Khamenei#Financial_assets) belonging to the Supreme Leader of Iran. Dictators could include bitcoins in their asset allocation so that they have an unseizable slush fund in case they get ousted and exiled.
+
+Anti-thesis: The wealth of dictators is often just the wealth of their government and is already invested in productive assets or used to stay in power by buying supporters. Even if dictators are holding cash abroad, they will continue to be more comfortable with the stability of gold and the U.S. dollar. Unless they have been specifically targeted by financial sanctions, dictators have an easy time holding cash in the international financial system [with shell companies](https://www.cfr.org/blog/corruption-brief-series-how-anonymous-shell-companies-finance-insurgents-criminals-and). 
+
 ### 2. Judgement resistance
+
+
 ### 3. Macro hedge
 ### 4. Uncorrelated returns
 ### 5. Intergenerational timelocking
