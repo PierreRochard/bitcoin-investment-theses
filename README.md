@@ -281,6 +281,7 @@ Anti-thesis: The wealth of dictators is often just the wealth of their governmen
 
 ### 2. Judgement resistance
 
+Thesis: Bitcoin allows civilians to more easily withhold wealth from rapacious governments. Fleeing a totalitarian regime with your family's wealth used to mean concealing gold or diamonds, and praying that a greedy border guard didn't find your stash. With bitcoin, you could memorize 24 words that store an arbitrary amount of value. Arbitrary seizures of wealth are not limited to totalitarian regimes, the United States government takes $5 billion per year with a process called [civil asset forfeiture](https://en.wikipedia.org/wiki/Civil_forfeiture_in_the_United_States#Prevalence) that assumes "guilty until proven innocent". Additionally, a United States federal district court judge can freeze supposedly tainted assets pre-trial, which would prevent you from hiring they lawyer you want. 
 
 ### 3. Macro hedge
 ### 4. Uncorrelated returns
