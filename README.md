@@ -279,9 +279,17 @@ Thesis: While we don't have any evidence that dictators are currently holding bi
 
 Anti-thesis: The wealth of dictators is often just the wealth of their government and is already invested in productive assets or used to stay in power by buying supporters. Even if dictators are holding cash abroad, they will continue to be more comfortable with the stability of gold and the U.S. dollar. Unless they have been specifically targeted by financial sanctions, dictators have an easy time holding cash in the international financial system [with shell companies](https://www.cfr.org/blog/corruption-brief-series-how-anonymous-shell-companies-finance-insurgents-criminals-and). 
 
-### 2. Judgement resistance
+### 2. Seizure Resistant
 
-Thesis: Bitcoin allows civilians to more easily withhold wealth from rapacious governments. Fleeing a totalitarian regime with your family's wealth used to mean concealing gold or diamonds, and praying that a greedy border guard didn't find your stash. With bitcoin, you could memorize 24 words that store an arbitrary amount of value. Arbitrary seizures of wealth are not limited to totalitarian regimes, the United States government takes $5 billion per year with a process called [civil asset forfeiture](https://en.wikipedia.org/wiki/Civil_forfeiture_in_the_United_States#Prevalence) that assumes "guilty until proven innocent". Additionally, a United States federal district court judge can freeze supposedly tainted assets pre-trial, which would prevent you from hiring they lawyer you want. 
+Thesis: Bitcoin allows civilians to more easily withhold wealth from rapacious governments. Fleeing a totalitarian regime with your family's wealth used to mean concealing gold or diamonds, and praying that a greedy border guard didn't find your stash. With bitcoin, you could memorize 24 words that store an arbitrary amount of value. Arbitrary seizures of wealth are not limited to totalitarian regimes, the United States government takes $5 billion per year with a process called [civil asset forfeiture](https://en.wikipedia.org/wiki/Civil_forfeiture_in_the_United_States#Prevalence) that assumes "guilty until proven innocent". Additionally, a United States federal district court judge can freeze supposedly tainted assets before a criminal trial happens, which could prevent you from hiring the lawyer you want. Having a secret stash of bitcoins could secure criminal defendants' due process rights.
+
+Anti-thesis: Governments will still be able to identify who owns bitcoins due to the public blockchain and seizing records from exchanges and brokerages. This would allow them to imprison and torture bitcoiners until they divulge their private key. While it is not criminal for an attorney to accept a tainted asset as payment, they may still refuse to do so to avoid the risk of themselves being subject to civil asset forfeiture.
+
+### 3. Judgement Resistant
+
+Thesis: The successful party in civil litigation can have a right to recover money or property from the unsuccessful party, in which case the successful party is a judgement creditor. Judgement creditors can freeze a bank account with a court order, called a garnishment or attachment. Bitcoin can be used to illegally hide value from judgement creditors. More interestingly, holding bitcoins with multi-signature technology in one or more foreign jurisdictions can be part of a legal strategy to frustrate or prevent the [recognition and enforcement of a just or unjust judgement](https://en.wikipedia.org/wiki/Enforcement_of_foreign_judgments). International banks currently provide a similar service with judgement resistant trusts, but these are expensive and cumbersome compared to a Bitcoin solution. This thesis was formulated by [Ari Paul](https://twitter.com/search?f=tweets&vertical=default&q=from%3Aaridavidpaul%20judgement%20resistant&src=typd).
+
+Anti-thesis: We don't have any examples of judgement resistance being tested. We don't know how judges will respond to the complexity of an asset being in multiple foreign jurisdictions simultaneously. Judgement-resistant does not mean judgement-proof, it may just take longer and be more expensive but lawyers will get to the bitcoins eventually. We may see treaties or case law emerge to prevent bitcoin multi-sig jurisdictional "abuse".
 
 ### 3. Macro hedge
 ### 4. Uncorrelated returns
@@ -296,9 +304,9 @@ Thesis: Bitcoin allows civilians to more easily withhold wealth from rapacious g
 ### 3. Full currency substitution
 
 
-## E. Exogenous narratives
+## E. Big picture theses
 
-### 1. Financial sovereignty
+### 1. Censorship resistance
 ### 2. Programmable money
 ### 3. Mining centralization
 ### 4. Unsuitable as financial market infrastructure
