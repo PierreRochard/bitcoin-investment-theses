@@ -291,16 +291,21 @@ Thesis: The successful party in civil litigation can have a right to recover mon
 
 Anti-thesis: We don't have any examples of judgement resistance being tested. We don't know how judges will respond to the complexity of an asset being in multiple foreign jurisdictions simultaneously. Judgement-resistant does not mean judgement-proof, it may just take longer and be more expensive but lawyers will get to the bitcoins eventually. We may see treaties or case law emerge to prevent bitcoin multi-sig jurisdictional "abuse".
 
-### 3. Macro hedge
+### 3. Banking crisis hedge
 
-> "This is now a confidence game. There is no real utility in this. This is a fantastic fundamental hedge and store of value against autocratic regimes and banking infrastructure that we know is corrosive to how the world needs to work properly. You cannot have central banks infinitely printing currency."
-> Chamath Palihapitiya
+Thesis: In 2008, [WaMu experienced two bank runs](http://blogs.reuters.com/rolfe-winkler/2009/10/29/wamus-bank-run/). Even with FDIC insurance, if this were to happen to several major international banks simultaneously it would be disruptive enough to freeze the banking services of many businesses and individuals. Bitcoin's layer 1 and layer 2 payments systems are decentralized and 100% reserve, thus immune to bank runs, they would continue to process payments seamlessly in a crisis. For this payments system hedge to work, the hedger has to be holding bitcoins ahead of the crisis, otherwise fiat payments to exchanges and OTC brokers would get caught up in the fiat freeze. It's an insurance policy for both individuals and corporate treasuries. 
 
 
-### 4. Uncorrelated returns
-### 5. Intergenerational timelocking
-### 6. Holders of last resort
-### 7. Destroyed coins
+### 4. Inflation hedge
+
+
+### 5. Capital controls hedge
+[Chamath Palihapitiya](https://twitter.com/chamath/status/860169412124356610?lang=en)
+
+### 6. Uncorrelated returns
+### 7. Intergenerational timelocking
+### 8. Holders of last resort
+### 9. Destroyed coins
 
 ## D. Long holding period, high adoption
 
