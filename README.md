@@ -292,6 +292,11 @@ Thesis: The successful party in civil litigation can have a right to recover mon
 Anti-thesis: We don't have any examples of judgement resistance being tested. We don't know how judges will respond to the complexity of an asset being in multiple foreign jurisdictions simultaneously. Judgement-resistant does not mean judgement-proof, it may just take longer and be more expensive but lawyers will get to the bitcoins eventually. We may see treaties or case law emerge to prevent bitcoin multi-sig jurisdictional "abuse".
 
 ### 3. Macro hedge
+
+> "This is now a confidence game. There is no real utility in this. This is a fantastic fundamental hedge and store of value against autocratic regimes and banking infrastructure that we know is corrosive to how the world needs to work properly. You cannot have central banks infinitely printing currency."
+> Chamath Palihapitiya
+
+
 ### 4. Uncorrelated returns
 ### 5. Intergenerational timelocking
 ### 6. Holders of last resort
