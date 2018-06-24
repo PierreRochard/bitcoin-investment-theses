@@ -295,19 +295,26 @@ Anti-thesis: We don't have any examples of judgement resistance being tested. We
 
 Thesis: In 2008, [WaMu experienced two bank runs](http://blogs.reuters.com/rolfe-winkler/2009/10/29/wamus-bank-run/). Even with FDIC insurance, if this were to happen to several major international banks simultaneously it would be disruptive enough to freeze the banking services of many businesses and individuals. Bitcoin's layer 1 and layer 2 payments systems are decentralized and 100% reserve, thus immune to bank runs, they would continue to process payments seamlessly in a crisis. For this payments system hedge to work, the hedger has to be holding bitcoins ahead of the crisis, otherwise fiat payments to exchanges and OTC brokers would get caught up in the fiat freeze. It's an insurance policy for both individuals and corporate treasuries. 
 
-Anti-thesis: Governments would just bail out "too big to fail" financial institutions to keep fiat payment systems from freezing up. The hedge does not work if retail stores, vendors, suppliers, employees, business owners, etcetera are unable or unwilling to accept bitcoins as payment even in a crisis.
+Anti-thesis: Governments would just bail out "too big to fail" financial institutions to keep fiat payment systems from freezing up. The hedge does not work if retail stores, vendors, suppliers, employees, business owners, etcetera era are unable or unwilling to accept bitcoins as payment even in a crisis.
 
 ### 4. Inflation hedge
 
-Thesis: Central banks are engaging in an unprecedented monetary experiment to stabilize financial systems and economies after the 2008 crisis. This experiment will eventually result in 
+Thesis: Central banks are engaging in unorthodox monetary experiments to stabilize financial systems and economies after the 2008 crisis. These experiments will eventually result in uncontrolled inflation. Bitcoin's ultra-orthodox monetary policy of targeting a fixed money supply, with 80% of the total 21 million bitcoins already in circulation, is the ideal hedge for fiat money printing.
+
+Anti-thesis: People have been predicting fiat hyperinflation since quantitative easing started a decade ago, and yet inflation is still very low in developed countries. Owning stocks, real estate, commodities, or precious metals is a better long-term inflation hedge than Bitcoin, which has a very short track-record. Bitcoin's track-record of  indicates that its value is not tied to expected inflation.
+
 
 ### 5. Capital controls hedge
 [Chamath Palihapitiya](https://twitter.com/chamath/status/860169412124356610?lang=en)
 
 ### 6. Uncorrelated returns
+
 ### 7. Intergenerational timelocking
+
 ### 8. Holders of last resort
+
 ### 9. Destroyed coins
+
 
 ## D. Long holding period, high adoption
 
