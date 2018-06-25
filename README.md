@@ -326,6 +326,7 @@ Anti-thesis: Not enough people are interested in Bitcoin maximalism's ideology t
 
 ### 8. Destroyed coins
 
+Thesis: Many bitcoins have been [destroyed, accidentally or deliberately](https://en.bitcoin.it/wiki/Controlled_supply#Spendable_Supply). This permanently removes them from the market. When a bitcoin is destroyed this makes all other bitcoins proportionately scarcer, and thus presumably more valuable.
 
 
 ## D. Long holding period, high adoption
