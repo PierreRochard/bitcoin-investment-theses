@@ -299,22 +299,33 @@ Anti-thesis: Governments would just bail out "too big to fail" financial institu
 
 ### 4. Inflation hedge
 
-Thesis: Central banks are engaging in unorthodox monetary experiments to stabilize financial systems and economies after the 2008 crisis. These experiments will eventually result in uncontrolled inflation. Bitcoin's ultra-orthodox monetary policy of targeting a fixed money supply, with 80% of the total 21 million bitcoins already in circulation, is the ideal hedge for fiat money printing.
+Thesis: Central banks are engaging in unorthodox monetary experiments to stabilize financial systems and economies after the 2008 crisis. These experiments will eventually result in uncontrolled inflation. Countries with failing governmental institutions, [like Venezuela](https://www.reuters.com/article/us-venezuela-economy/venezuela-annual-inflation-hits-24600-percent-in-may-national-assembly-idUSKBN1J71YB), are currently suffering from hyperinflation. Bitcoin's ultra-orthodox monetary policy of targeting a fixed money supply, with 80% of the total 21 million bitcoins already in circulation, is the ideal hedge for fiat money printing. 
 
 Anti-thesis: People have been predicting fiat hyperinflation since quantitative easing started a decade ago, and yet inflation is still very low in developed countries. Owning stocks, real estate, commodities, or precious metals is a better long-term inflation hedge than Bitcoin, which has a very short track-record. Bitcoin's track-record of  indicates that its value is not tied to expected inflation.
 
 
-### 5. Capital controls hedge
+### 5. Uncorrelated returns
 
-Thesis:  [Chamath Palihapitiya](https://twitter.com/chamath/status/860169412124356610?lang=en)
+Thesis: Bitcoin's returns are uncorrelated or [weakly correlated with other asset classes](https://www.bloomberg.com/graphics/2018-bitcoin-investment/). This makes it ideal for diversifying a portfolio. The optimal allocation to Bitcoin has been [estimated to be 1.3%](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3082808).
 
-### 6. Uncorrelated returns
+Anti-thesis: Bitcoin is [increasingly correlated with the stock market](https://www.cnbc.com/2018/02/07/wells-fargo-strategist-bitcoin-and-the-market-are-correlated.html). It is widely viewed as a "risk-on" asset that is being inflated by easy money going into the broader tech ecosystem. Past lack of correlation was just due to how small bitcoin was relative to other asset classes.
 
-### 7. Intergenerational timelocking
 
-### 8. Holders of last resort
+### 6. Intergenerational timelocking
 
-### 9. Destroyed coins
+Thesis: [OP_CHECKLOCKTIMEVERIFY](https://github.com/bitcoin/bips/blob/master/bip-0065.mediawiki) could be used to lock up bitcoins for several centuries. This could help overcome what's called the []rule against perpetuities](https://en.wikipedia.org/wiki/Rule_against_perpetuities) which prevents the deceased from affecting the ownership of property long after they have died. 
+
+Anti-thesis: Time-locked bitcoins will end up trading in a secondary market at a discount.
+
+
+### 7. Holders of last resort
+
+Thesis: Fractional-reserve monetary systems require lenders of last resort to stop debt-deflation from causing the economy to collapse. An emerging 100% reserve monetary system like Bitcoin requires [holders, and buyers, of last resort](https://twitter.com/NodedPodcast/status/979848416128888832) to stop a crisis of confidence from causing the value of bitcoins to collapse. This is functionally similar to a central bank using its reserves to buy the domestic currency, fighting off speculators who are betting on devaluation. Holders of last resort are intransigent advocates for Bitcoin's economics and technology.
+
+Anti-thesis: Not enough people are interested in Bitcoin maximalism's ideology to form a set of holders of last resort with enough capital to defend bitcoin from a catastrophic and final loss of value. Holders of last resort are delusional and will end up just holding a worthless bag of buttcoins. 
+
+### 8. Destroyed coins
+
 
 
 ## D. Long holding period, high adoption
