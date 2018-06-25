@@ -295,13 +295,13 @@ Anti-thesis: We don't have any examples of judgement resistance being tested. We
 
 Thesis: In 2008, [WaMu experienced two bank runs](http://blogs.reuters.com/rolfe-winkler/2009/10/29/wamus-bank-run/). Even with FDIC insurance, if this were to happen to several major international banks simultaneously it would be disruptive enough to freeze the banking services of many businesses and individuals. Bitcoin's layer 1 and layer 2 payments systems are decentralized and 100% reserve, thus immune to bank runs, they would continue to process payments seamlessly in a crisis. Bitcoin has no bank holidays. For this payments system hedge to work, the hedger has to be holding bitcoins ahead of the crisis, otherwise fiat payments to exchanges and OTC brokers would get caught up in the fiat freeze. Worse than a temporary payments freeze would be a bank bail-in, for example in 2013 Cypriot banks' depositors were subjected [a one-off 9.9% levy for any deposits above €100,000](https://www.economist.com/schumpeter/2013/03/16/unfair-short-sighted-and-self-defeating). Bitcoin is an insurance policy for both individuals and corporate treasuries and should be a part of business continuity planning. 
 
-Anti-thesis: Governments would just bail out "too big to fail" financial institutions to keep fiat payment systems from freezing up. The hedge does not work if retail stores, vendors, suppliers, employees, business owners, etcetera era are unable or unwilling to accept bitcoins as payment even in a crisis.
+Anti-thesis: Governments would just bail out "too big to fail" financial institutions to keep fiat payment systems from freezing up. The hedge does not work if retail stores, vendors, suppliers, employees, business owners, etcetera are unable or unwilling to accept bitcoins as payment even in a crisis.
 
 ### 4. Inflation hedge
 
 Thesis: Central banks are engaging in unorthodox monetary experiments to stabilize financial systems and economies after the 2008 crisis. These experiments will eventually result in uncontrolled inflation. Countries with failing governmental institutions, [like Venezuela](https://www.reuters.com/article/us-venezuela-economy/venezuela-annual-inflation-hits-24600-percent-in-may-national-assembly-idUSKBN1J71YB), are currently suffering from hyperinflation. Bitcoin's ultra-orthodox monetary policy of targeting a fixed money supply, with 80% of the total 21 million bitcoins already in circulation, is the ideal hedge for fiat money printing. 
 
-Anti-thesis: People have been predicting fiat hyperinflation since quantitative easing started a decade ago, and yet inflation is still very low in developed countries. Owning stocks, real estate, commodities, or precious metals is a better long-term inflation hedge than Bitcoin, which has a very short track-record. Bitcoin's track-record of  indicates that its value is not tied to expected inflation.
+Anti-thesis: People have been predicting fiat hyperinflation since quantitative easing started a decade ago, and yet inflation is still very low in developed countries. Owning stocks, real estate, commodities, or precious metals is a better long-term inflation hedge than Bitcoin, which has a very short track-record. Bitcoin's track-record indicates that its value is not tied to expected inflation.
 
 
 ### 5. Uncorrelated returns
@@ -313,7 +313,7 @@ Anti-thesis: Bitcoin is [increasingly correlated with the stock market](https://
 
 ### 6. Intergenerational timelocking
 
-Thesis: [OP_CHECKLOCKTIMEVERIFY](https://github.com/bitcoin/bips/blob/master/bip-0065.mediawiki) could be used to lock up bitcoins for several centuries. This could help overcome what's called the []rule against perpetuities](https://en.wikipedia.org/wiki/Rule_against_perpetuities) which prevents the deceased from affecting the ownership of property long after they have died. 
+Thesis: [OP_CHECKLOCKTIMEVERIFY](https://github.com/bitcoin/bips/blob/master/bip-0065.mediawiki) could be used to lock up bitcoins for several centuries. This could help overcome what's called the [rule against perpetuities](https://en.wikipedia.org/wiki/Rule_against_perpetuities) which prevents the deceased from affecting the ownership of property long after they have died. 
 
 Anti-thesis: Time-locked bitcoins will end up trading in a secondary market at a discount.
 
