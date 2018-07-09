@@ -33,25 +33,25 @@ Every rule change begins with __research__. For example, SegWit began with resea
 
 Critics have pointed out occasional disconnects between what researchers want to research, user expectations, and what is good for the network's properties. Additionally, academic computer scientists prefer "scientific simulations" over "engineering experiments". This has been a source of tension in the research community.
 
-When a researcher has discovered a solution to a problem, they share their results with other protocol developers. This sharing could be in the form of an email to the bitcoin-dev mailing list, a formal white paper, and/or a Bitcoin Improvement Proposal (BIP)
+When a researcher has discovered a solution to a problem, they share their __proposed changes__ with other protocol developers. This sharing could be in the form of an email to the bitcoin-dev mailing list, a formal white paper, and/or a Bitcoin Improvement Proposal (BIP).
 
-implemented 
-These rules are implemented in node software. 
-Soft fork vs hard fork
+A proposal is __implemented__ in the node software by the researcher(s) who proposed it, or by other protocol developers who are interested in it. If a researcher can not implement a proposal, or the proposal does not attract favorable peer review, then it will linger at this stage until it is either abandoned or revised.
 
-3. Developer interest
- a. IRC
- b. Mailing lists
- c. Bitcoin Improvement Proposal (BIP)
- d. Implementation
+While this may give the impression that the contributors to Bitcoin protocol development can veto a proposal, a researcher can make their case to the public and route around existing developers. In this scenario, the researcher is at a disadvantage if they lack reputation and credibility.
 
-deployed
-4. User rough consensus
- a. Exchanges
- b. Traders
- c. Holders
- d. Picking your node software: Schelling point consensus
- e. Miners picking their node software: BIP-34 and BIP-9
+Another problem at the implementation phase is that the maintainers of the [reference implementation](https://github.com/bitcoin/bitcoin) will not merge in an implementation if it is widely seen as contentious by the Bitcoin protocol developers and the wider Bitcoin community. The reference implementation's maintainers have a deliberate policy of following consensus changes rather than trying to impose them. The C++ reference implementation, hosted at [github.com/bitcoin/bitcoin](github.com/bitcoin/bitcoin), is the direct successor of Satoshi's codebase. It continues to be the most popular Bitcoin node implementation due to its maturity and reliability.
+
+To circumvent the reference implementation's maintainers and make consensus changes regardless is as simple as copying the Bitcoin codebase and releasing the proposed changes. This happened with the [BIP-148](https://github.com/bitcoin/bips/blob/master/bip-0148.mediawiki) User Activated Soft Fork (UASF). 
+
+A proposal to change validation rules can have a softfork or a hardfork implementation. Some proposals can only be implemented as a hardfork. A softfork implementation is forward-compatible. With a softfork, the pre-fork nodes do not need to upgrade their software in order to continue validating the pre-fork consensus rules. However, these pre-fork nodes are not validating rule changes made by the soft-fork. A hardfork is forward-incompatible. Pre-fork nodes will end up on a different network as post-fork nodes. 
+
+There has been controversy about the effects of hard and softforks on the network and users. Softforks are seen safer than hardforks, because they do not require an explicit opt-in, but this can also be seen as coercive. Someone who disagrees with a softfork must hardfork to reverse it.
+
+Once implemented in the node software, users must be persuaded to use the node software. Not all node users are equal in their importance. For example, "blockchain explorers" also have more power as many users rely on their node. Additionally, an exchange can determine which validation rule set belongs to which ticker symbol. Speculative traders, large holders, and other exchanges provide a check on this power over ticker symbols. 
+
+While individual users may signal on social media that they using a certain version of node software, this can be sybil attacked. The ultimate test of consensus is whether your node software can receive payments that you consider to be bitcoins, and you can send payments that your counter-parties' node software considers to be bitcoins. 
+
+Softforks have an on-chain governance feature called (BIP-9 Version bits with timeout and delay)[https://github.com/bitcoin/bips/blob/master/bip-0009.mediawiki]. This feature measures miner support for softforks on a rolling basis. Miner support for proposals is used as a proxy measure for the wider community's support. Unfortunately this proxy measure can be inaccurate due to mining centralization and conflicts of interest between miners and users. On-chain "voting" by miners also perpetuates the myth that Bitcoin is a miner democracy, and that the miners alone decide on transaction and block validity. BIP-9 is useful to the extent that we recognize and accept the limitations of proxy measurements. 
 
 enforced
 
@@ -63,25 +63,5 @@ Node operators choose which  Nodes use the verification rules to independently v
 Nodes will not propagate  transactions and blocks which break the rules. In fact, nodes will disconnect and ban peers which are sending invalid transactions and blocks. 
 
 ## Has the current Bitcoin governance model resulted in more trustlessness?
-
-
-## Possible deciders?
-
-Social media
-
-Users
-* Users of the Bitcoin network 
-* Users of businesses that use the Bitcoin network
-
-Businesses
-
-Investors
-
-Developers
-
-Miners
-
-Full nodes
-
 
 
